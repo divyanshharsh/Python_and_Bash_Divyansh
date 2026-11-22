@@ -1,0 +1,6 @@
+Python and Bash Assignment
+Student: Divyansh Harsh
+
+This file was created using Python file handling.
+The program demonstrates how to open a file in write mode
+and write content using the write() function.
