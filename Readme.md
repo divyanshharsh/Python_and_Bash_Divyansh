@@ -80,7 +80,7 @@ Python_and_Bash_Divyansh/
 │
 ├── screenshots/
 │
-├── documentation.docx
+├── Python_Bash_Assignemnt.docx
 ├── file_read.py
 ├── file_write.py
 ├── grade_checker.py
@@ -122,12 +122,9 @@ python file_read.py
 The complete assignment documentation, including source code, explanations, execution details, and screenshots, is available in:
 
 ```text
-documentation.docx
+Python_BAsh_Assignemnt.docx
 ```
 
-## Screenshots
-
-The screenshots folder contains the terminal screenshots showing the execution and output of the completed tasks.
 
 ## GitHub Repository
 
